@@ -4,7 +4,7 @@
 ## TI 22 A2
 ## Link Youtube
 ```
-asdaasdad
+https://youtu.be/WKG3l4LDICw
 ```
 Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah
 class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
