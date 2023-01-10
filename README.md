@@ -6,6 +6,10 @@
 ```
 https://youtu.be/WKG3l4LDICw
 ```
+## Link Pdf
+```
+https://drive.google.com/file/d/1joR6sWstR4jJYV9jCunCbFEGzLpLHRVo/view?usp=sharing
+```
 Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah
 class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
